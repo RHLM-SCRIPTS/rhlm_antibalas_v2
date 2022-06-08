@@ -4,7 +4,7 @@ author "😈 𝐀𝐍𝐔𝐄𝐋 𝐀𝐀 😈#6979"
 
 discord "https://discord.gg/ZdDBjyYr9x"
 
-fxversion "1.0"
+fxversion "2.0"
 
 server_scripts {
 	'@mysql-async/lib/MySQL.lua',
